@@ -95,7 +95,7 @@ button a {
 .card .face {
   position: absolute;
   width: 300px;
-  height: 300px;
+  height: 280px;
   background-size: #000;
   display: flex;
   justify-content: center;
